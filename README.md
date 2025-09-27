@@ -1,13 +1,31 @@
+<div align="center">
+
 # BiomechAI - Advanced Biomechanics Analysis Platform
 
-A comprehensive web application that combines ESP32 sensor data collection with AI-powered posture and gait analysis for real-time biomechanical assessment.
+<img src="public/logo.png" alt="BiomechAI Logo" width="200" height="200"/>
+
+*A comprehensive web application that combines ESP32 sensor data collection with AI-powered posture and gait analysis for real-time biomechanical assessment.*
+
+[![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue.svg)](https://www.typescriptlang.org/)
+[![ESP32](https://img.shields.io/badge/ESP32-Arduino-green.svg)](https://www.espressif.com/)
+[![AI](https://img.shields.io/badge/AI-Google%20Gemini-purple.svg)](https://ai.google.dev/)
+
+</div>
 
 ## 🌟 Features
 
-### 📊 Real-time Analysis
-- **Posture Monitoring**: Webcam-based real-time posture analysis using MediaPipe
-- **Gait Analysis**: ESP32 sensor-based gait pattern analysis with step detection
-- **AI-Powered Insights**: Google Gemini AI integration for personalized recommendations
+<div align="center">
+
+### 🔬 **Real-time Biomechanical Analysis**
+
+| **Posture Monitoring** | **Gait Analysis** | **AI Insights** |
+|:---:|:---:|:---:|
+| 📹 Webcam-based pose detection | 📡 ESP32 sensor data collection | 🤖 Google Gemini AI integration |
+| Real-time posture metrics | Step detection & analysis | Personalized recommendations |
+| MediaPipe technology | IMU sensor processing | Expert biomechanics advice |
+
+</div>
 
 ### 🔧 Hardware Integration
 - **ESP32 Microcontroller**: Wireless sensor data transmission
