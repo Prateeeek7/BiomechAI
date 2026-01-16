@@ -309,6 +309,7 @@ For support and questions:
 - Check the troubleshooting section
 - Review the documentation
 - Open an issue on GitHub
+- Contact: pratik2002singh@gmail.com
 
 ---
 
