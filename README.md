@@ -314,3 +314,5 @@ For support and questions:
 ---
 
 **BiomechAI** - Transforming biomechanical analysis with AI and IoT technology.
+
+--Pratik Kumar
